@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briifernandez
 - 👀 I’m interested in learning front-end development!
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
