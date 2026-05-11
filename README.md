@@ -32,9 +32,11 @@ Previously built public-sector workflow tools for the **County of San Diego**, p
 
 Backend systems, full-stack platforms, research data infrastructure, internal tools, AI products, and education technology.
 
+I also love competing in hackathons!  
+
 ---
 
-[linkedin](https://www.linkedin.com/in/kate-fernandez1/) | [github](https://github.com/briifernandez)
+[devpost](https://devpost.com/briifernandez) | [linkedin](https://www.linkedin.com/in/kate-fernandez1/) | [github](https://github.com/briifernandez)
 
 <!---
 briifernandez/briifernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
