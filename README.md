@@ -10,40 +10,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-I'm a backend-leaning full-stack software engineer building research data platforms, internal tools, and AI-powered learning systems.
+I'm a backend-leaning full-stack engineer building research data platforms, internal tools, and AI-powered learning systems.
 
-Currently a Software Development Intern at the **San Diego Supercomputer Center**, where I build Go/PostgreSQL backend services and React/Next.js interfaces for clinical research platforms used by 50+ researchers.
+Currently at the **San Diego Supercomputer Center**, where I build Go/PostgreSQL services and React/Next.js interfaces for clinical research platforms used by 50+ researchers.
 
-My work focuses on building reliable systems for real-world workflows: clinical data platforms, research tools, validation-heavy interfaces, geospatial ML pipelines, and agentic learning products.
-
-Previously built software for the **County of San Diego**, presented a public-sector permitting platform at the **U.S. Chamber of Commerce Conference**, and placed **3rd overall at RoseHacks 2026** with Symra, a local-first clinical workflow app.
-
-## What I Build
-
-- Research data platforms for clinical and biomedical workflows  
-- Backend APIs and internal tools using Go, PostgreSQL, FastAPI, and Node.js  
-- Full-stack products with React, Next.js, TypeScript, and TailwindCSS  
-- AI-powered education tools using LangChain, Gemini, Claude, Elasticsearch, and Chroma  
-- Geospatial ML pipelines with Google Earth Engine, PyTorch, and satellite imagery  
+Previously built public-sector workflow tools for the **County of San Diego**, presented at the **U.S. Chamber of Commerce Conference**, and placed **3rd overall at RoseHacks 2026**.
 
 ## Featured Projects
 
-**Symra — Clinical Workflow App**  
-Local-first health workflow platform for symptom tracking, visual evidence, and structured visit reports.  
+**Symra** — local-first clinical workflow app for symptom tracking and structured visit reports  
 `React/Vite` `FastAPI` `IndexedDB` `Gemini`  
 🏆 RoseHacks 2026, 3rd Place Overall
 
-**Platypus Academy — Agentic Study Platform**  
-Retrieval and validation pipeline for generating grounded practice tests from open educational resources.  
+**Platypus Academy** — agentic study platform for grounded practice test generation  
 `Next.js` `FastAPI` `LangChain` `Elasticsearch` `Chroma` `Claude API`
 
-**Praxio — AI Simulation Tutor**  
-Interactive simulation tutor that turns concepts into sandboxed learning environments with verification checks.  
+**Praxio** — AI simulation tutor for interactive concept learning  
 `Next.js` `Vercel AI SDK` `Gemini` `MongoDB` `ElevenLabs`
 
-## Currently Interested In
+## Interests
 
-Software engineering intern and new grad roles focused on backend systems, full-stack platforms, data infrastructure, research tools, internal tools, AI products, and education technology.
+Backend systems, full-stack platforms, research data infrastructure, internal tools, AI products, and education technology.
 
 ---
 
